@@ -1,2 +1,2 @@
 # URI_Solutions
-Open source codesn of URI online Judge.
+Open source codes of URI online Judge.
